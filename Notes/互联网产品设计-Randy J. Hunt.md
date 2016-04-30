@@ -13,7 +13,7 @@
 
 产品分类：
 
-![产品分类](http://o6ffmzmqs.bkt.clouddn.com//img/nodes-01-001.png)
+![产品分类](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-001.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
 
 >- 独立运作产品：提供完整的体验和价值的产品。例如，天气预报
 >- 生态系统产品：本身能提供价值和体验，但是可以搭配其他产品、服务或者人创造更多价值的产品。例如，支付宝
@@ -21,6 +21,8 @@
 >- 本地应用程序同样可以使用网络产品的思维，例如：Evernote，多平台
 
 产品进化：
+
+![产品进化](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-002.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
 
 >独立产品 —— 生态产品 —— 平台产品
 
@@ -48,6 +50,8 @@
 
 产品经理需要平衡的三件事：
 
+![产品经理需要平衡三件事](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-003.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
+
 >- 产品业务需求。
 >- 技术限制。
 >- 使用产品的用户体验。
@@ -62,6 +66,8 @@
 
 “产品故事”六要素（同新闻稿六要素）：
 
+![六要素](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-004.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
+
 >- **Who**：产品为谁设计？谁设计了它？
 >- **What**：产品是做什么的？它叫什么名字？
 >- **Where**：产品使用场景？从哪里得到它？
@@ -72,37 +78,106 @@
 技巧：
 
 >- 结果导向思维
-- 通过故事达成一直愿景
-- 故事要明确好处和价值
-- 故事要讲给门外汉听
+>- 通过故事达成一直愿景
+>- 故事要明确好处和价值
+>- 故事要讲给门外汉听
 
 故事元素：
+
 >开端、过程、结果。
 
 ### 4.交互之流线与结网设计 ###
 
->我们设计的不是页面，而是流程。
+>我们设计的不是页面，而是流线。
 
 >流程不仅包括线上，还包括线下。
 
 流线设计（鼓励用户进行下一步）：
 
+![流线设计](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-005.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
+
 >用户从哪里开始注册，取决于你希望他完成注册后马上做什么。
 
 >改善体验时，要经常寻找扩展它的流线的机会。
 
+互链体验：
 
-互链体验 ：
+![互链体验](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-006.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
 
 >把流线的终结点变成非终结点，将它链接到其他流线上。
 
 >例：添加购物车-付款-完成购物（终结）-其他商品（开始）-
 
+连线成网：
+
+![互链体验](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-007.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
+
+>将产品很多部分相互连接起来。
+
+>将产品的体验边缘连接到另外的连接点上。
+
+### 5.看不见的特性 ###
+
+![产品体验](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-008.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
+
+性能，即产品质量：
+
+速度：
+>
+- 资源质量
+- 代码逻辑
+- 用户设备
+- 服务设备
+- 网络连接
+	
+可靠性：
+>
+- 运行流畅
+- 没有故障
+- 不闪退
+- 加载成功
+- 点击反馈
+- 操作流畅
+- 正常相应
+- 不易误操作
+
+社区，强大的用户群：
+
+>1. 内部用户群
+>2. 外部用户群
+
+客服：
+
+>糟糕的客服会放大你的问题。
+
+>良好的客服赢得口碑和声誉。
+
+安全保障：
+
+![安全保障](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-009.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
+
+>安全感与操控感直接相关。
+
+>没有安全感造成用户流失。
 
 
+### 6.创意高于效率 ###
 
+>每一款产品都应秉持效率至上的理念。
 
+关于创意：
 
+>- 避免命名不清：文案需要直截了当，而非暗喻或隐喻吗，尤其是核心功能。
+>- 创意有的放矢：设计应该衔接在用户认知轨道上。例：“完成”按钮——代表着“退出”？“保存”？“保存并关闭”？或？
+>- 不要把产品改的用户看不懂。
+>- 每一个设计符合产品个性。
+>- 交互符合用户认知。
+
+创意筛选：
+
+>有时，最好的设计就是没有设计。
+
+>创意的喜悦不在于产品很酷炫，而在于产品真的很好用。
 
 
 
