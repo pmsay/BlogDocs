@@ -294,3 +294,5 @@ or
 
 ![需求获取](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-019.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
 
+------------------------------------------
+关于书籍实践部分章节，这里不做总结，它书另做汇总。
