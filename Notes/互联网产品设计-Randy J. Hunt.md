@@ -179,5 +179,83 @@
 
 >创意的喜悦不在于产品很酷炫，而在于产品真的很好用。
 
+### 7.行为塑造 ###
 
+预期鼓励：
+>在最开始的交互中就要让用户得到正反馈，即感受到“成功”。
+
+使用线索：
+
+>- 隐形线索
+>- 显性线索
+
+![线索](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-010.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
+
+鼓励用户：
+
+可以每一步骤奖励：
+
+![奖励1](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-011.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
+
+or
+
+![奖励2](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-012.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
+
+也可以提供正向反馈：
+
+![奖励3](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-013.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
+
+阻止没有预期的行为：
+
+>让用户走向错误道理的选项变灰，或者更好不让用户看到。
+
+![阻止没有预期的行为](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-014.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
+
+预期行为奖励：
+
+- 重复奖励：
+
+![重复奖励](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-015.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
+
+- 游戏机制（“升级”）：
+
+![重复奖励](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-016.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
+
+- 特权化：
+
+		下一级，您将获得：###，￥￥￥
+		您的级别为：***级
+
+- 社交元素：
+
+		。
+		。
+		。
+		3.XXX
+		。
+		。
+		6.你
+		。		（完成下一级任务，升到第4级）
+		。XXX
+
+适当阻止用户滥用行为：
+
+- 阻止用户无预期的误用
+- 错误受众，清楚非目标用户
+- 阻止非法滥用
+
+惩罚措施：
+
+- 撤销会员或特权
+- 限制访问功能
+- 撤销功能权限或福利
+- **慎用告诉所有用户处理非法用户，因为需要让用户感受到产品的安全感！**
+
+### 8.小步快跑，多次迭代 ###
+
+![开发模式](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-017.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
+
+敏捷开发的优点：
+
+![快速迭代](http://o6ffmzmqs.bkt.clouddn.com/img/nodes/01-018.png?watermark/2/text/dWFueGkuY29t/font/5a6L5L2T/fontsize/200/fill/IzlDOTY5Ng==/dissolve/100/gravity/SouthEast/dx/1/dy/1)
 
